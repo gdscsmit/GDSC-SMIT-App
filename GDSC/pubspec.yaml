@@ -1,0 +1,66 @@
+name: gdsc
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  url_launcher: ^6.1.5
+  fluttertoast: ^8.0.9
+  firebase_core: ^1.22.0
+  firebase_storage: ^10.3.8
+  cloud_firestore: ^3.4.8
+  font_awesome_flutter: ^10.2.1
+  firebase_messaging: ^13.1.0
+  flutter_local_notifications: ^12.0.0
+  flutter_animate: ^1.0.0
+  progress_indicators: ^1.0.0
+  easy_refresh: ^3.0.4+2
+  awesome_bottom_bar: ^1.2.1
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/recruitment.png
+    - assets/app-development.png
+    - assets/artificial-intelligence.png
+    - assets/cloud-storage.png
+    - assets/development.png
+    - assets/hacker.png
+    - assets/magazine.png
+    - assets/team-management.png
+    - assets/ui.png
+    - assets/gdsc-logo.png
+    - assets/divider.png
+    - assets/gdsc_smitwhite.jpeg
+    - assets/gdsc_smitwhite-transparent.png
+    - assets/blueframe.png
+    - assets/redframe.png
+    - assets/greenframe.png
+    - assets/yellowframe.png
+    - assets/default.jpeg
+    - assets/bg.png
+    - assets/facebook.png
+    - assets/twitter.png
+    - assets/linkedin.png
+    - assets/instagram.png
+
+  fonts:
+    - family: Vollkorn
+      fonts:
+        - asset: assets/fonts/GoogleSans-Bold-v1.27.ttf
+        - asset: assets/fonts/GoogleSansDisplay-Regular-v1.27.ttf
+
+
