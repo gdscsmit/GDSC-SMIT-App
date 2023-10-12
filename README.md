@@ -37,7 +37,7 @@ To run the app locally, follow these steps:
 
 - Clone the repository:
 ```bash
-git clone https://github.com/Aryan-Lohia/GDSC-SMIT-App.git
+git clone https://github.com/gdscsmit/GDSC-SMIT-App.git
 ```
 - Navigate to the project directory:
 ```bash
@@ -68,7 +68,7 @@ Please review our **[CODE OF CONDUCT](CODE_OF_CONDUCT.md)** before contributing.
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-Thank you for your interest in the GDSC Official Website! If you have any questions or suggestions, feel free to reach out to us. Happy coding! 😄
+Thank you for your interest in the GDSC Official App! If you have any questions or suggestions, feel free to reach out to us. Happy coding! 😄
 
 ### Let's make Hacktoberfest 2023 amazing together! Happy coding! 🎉
 
