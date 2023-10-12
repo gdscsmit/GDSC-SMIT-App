@@ -13,7 +13,7 @@
 - Fork the repository
 - Clone your forked repository: 
 ```bash
-git clone https://github.com/Aryan-Lohia/GDSC-SMIT-App.git
+git clone https://github.com/gdscsmit/GDSC-SMIT-App.git
 ```
 - Navigate to the project directory: 
 ```bash
@@ -49,7 +49,7 @@ git push origin your-username
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
 
 ```bash
-git remote add upstream https://github.com/Aryan-Lohia/GDSC-SMIT-App.git
+git remote add upstream https://github.com/gdscsmit/GDSC-SMIT-App.git
 ```
 
 You can verify that the new remote has been added by typing
